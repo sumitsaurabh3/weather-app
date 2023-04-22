@@ -13,4 +13,4 @@ Weather App Using React.js With Current Location and Search City
 
 # Live Demo 
 
-https://sumitsaurabh3.github.io/weather-app.github.io/
+https://peaceful-palmier-ce9023.netlify.app
